@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=👋Hi+there!;👨‍💻I'm+Mrhx01;🐍Backend+Developer;Django+%7C+Python+%7C+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋Hi+there!;👨‍💻I'm+Mrhx01;🐍Backend+Developer;Django+%7C+Python+%7C+AI)](https://git.io/typing-svg)
 
 
 ## 🔥 GitHub Stats
@@ -27,6 +27,9 @@
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-1D63ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **Testing & Utilities** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) |
 | **Creative Tools** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white) |
+
+Random Day Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ## 🎵 Favorite Song
 
