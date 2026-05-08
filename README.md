@@ -33,7 +33,7 @@
 
 ## 🎵 Favorite Song
 
-[![Spotify Banner](https://img.shields.io/badge/Now%20Playing-Mockingbird%20by%20Eminem-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
+[![Youtube Banner](https://img.shields.io/badge/Now%20Playing-Mockingbird%20by%20Eminem-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=S9bCLPwzSC0)
 
 
 
