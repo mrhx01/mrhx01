@@ -4,7 +4,8 @@
 
 ## 🐍 Contribution
 
-<img src="https://raw.githubusercontent.com/mrhx01/mrhx01/output/github-contribution-grid-snake-dark.svg" />
+![Snake animation](https://raw.githubusercontent.com/mrhx01/mrhx01/output/github-contribution-grid-snake-dark.svg)
+
 
 </div>
 
