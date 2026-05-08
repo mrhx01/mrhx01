@@ -30,7 +30,8 @@
 
 ## 🎵 Favorite Song
 
-![Favorite Song](https://img.shields.io/badge/Favorite%20Song-Mockingbird%20%E2%80%94%20Eminem-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+[![Spotify Banner](https://img.shields.io/badge/Now%20Playing-Mockingbird%20by%20Eminem-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
+
 
 
 </div>
