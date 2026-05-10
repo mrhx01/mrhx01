@@ -2,22 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋Hi+there!;👨‍💻I'm+Mrhx01;🐍Backend+Developer;Django+%7C+Python+%7C+AI)](https://git.io/typing-svg)
 
-
 ## 🔥 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mrhx01&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-
 ## 🐍 Contribution
 
-[![Snake animation](https://raw.githubusercontent.com/mrhx01/mrhx01/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/mrhx01/mrhx01/output/github-contribution-grid-snake-dark.svg
-)
+[![Snake animation](https://raw.githubusercontent.com/mrhx01/mrhx01/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/mrhx01/mrhx01/output/github-contribution-grid-snake-dark.svg)
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
 | Category | Technologies |
 |-----------|---------------|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | **Backend Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
 | **Queues & Caching** | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) |
@@ -28,14 +26,11 @@
 | **Testing & Utilities** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) |
 | **Creative Tools** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white) |
 
-## Random Day Quote
+## 💡 Random Day Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ## 🎵 Favorite Song
 
 [![Youtube Banner](https://img.shields.io/badge/Now%20Playing-Mockingbird%20by%20Eminem-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=S9bCLPwzSC0)
 
-
-
 </div>
-
