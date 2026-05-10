@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋Hi+there!;👨‍💻I'm+Mrhx01;🐍Backend+Developer;Django+%7C+Python+%7C+AI)](https://git.io/typing-svg)
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhx01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 🔥 GitHub Stats
 
