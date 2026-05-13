@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrhx01)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrhx01@proton.me)
 
+![Profile Views](https://komarev.com/ghpvc/?username=mrhx01&label=Profile%20views&color=0e75b6&style=flat)
+
 </div>
 
 ---
@@ -51,10 +53,22 @@
 
 ### 📊 GitHub Analytics
 
+<!-- GitHub Streak -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mrhx01&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrhx01&bg_color=141321&color=A9FEF7&line=FE428E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%" />
+</div>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrhx01&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="100%" />
+</div>
+
+<!-- Snake animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrhx01/mrhx01/output/github-contribution-grid-snake-dark.svg">
@@ -68,7 +82,6 @@
   
   [![Mockingbird](https://img.shields.io/badge/🎧_Now_Playing-Mockingbird_by_Eminem-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=S9bCLPwzSC0)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote" height="270" />
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote" height="270" />
 
 </div>
