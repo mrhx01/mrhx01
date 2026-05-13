@@ -9,6 +9,6 @@
  |
 
 ## Overall Stats 📊
-- **Total Pull Requests:** 3
-- **Merged:** 2 | **In Review:** 1
+- **Total Pull Requests:** 4
+- **Merged:** 3 | **In Review:** 1
 - **Primary Area:** Type Hints / Python Stubs
