@@ -8,16 +8,16 @@
 | [#15789](https://github.com/python/typeshed/pull/15789) | <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="30"> [Python](https://github.com/python/) | [`typeshed`](https://github.com/python/typeshed/) | 🔄 In review | 2026-05-13 | Add type hints for `authlib.common.language` module |
 | [#15790](https://github.com/python/typeshed/pull/15790) | <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="30"> [Python](https://github.com/python/) | [`typeshed`](https://github.com/python/typeshed/) | 🔄 In review | 2026-05-14 | Fix type hint issues and add missing method in `deprecated.sphinx` |
 | [#160](https://github.com/nasa/apod-api/pull/160) | <img src="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" width="40"> [NASA](https://github.com/nasa/) | [`apod-api`](https://github.com/nasa/apod-api/) | 🔄 In review | 2026-05-14 | Refactor encoding handling and remove global variable in `apod.utility` |
-
+| [#15795](https://github.com/python/typeshed/pull/15795) | <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="30"> [Python](https://github.com/python/) | [`typeshed`](https://github.com/python/typeshed/) | 🔄 In review | 2026-05-15 | Fix default value for parameter in `deprecated.params` |
 ---
 
 ## Overall Stats 📊
 
 | Metric | Value |
 |--------|-------|
-| **Total Pull Requests** | 6 |
+| **Total Pull Requests** | 7 |
 | **✅ Merged** | 3 |
-| **🔄 In Review** | 3 |
+| **🔄 In Review** | 4 |
 | **Primary Area** | Type Hints / Python Stubs |
 | **Organizations** | Python, NASA |
 
