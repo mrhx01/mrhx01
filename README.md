@@ -74,8 +74,6 @@
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mrhx01&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-
-
 <!-- Snake animation -->
 <div align="center">
   <picture>
@@ -91,7 +89,6 @@
   [![Mockingbird](https://img.shields.io/badge/🎧_Now_Playing-Mockingbird_by_Eminem-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=S9bCLPwzSC0)
 
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote" height="270" />
-
 </div>
 
 <p align="center">
