@@ -15,8 +15,6 @@
 
 ---
 
-
-
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Advanced Backend Systems & AI Automation**
@@ -25,9 +23,6 @@
 - 💬 Ask me about **Python, Django, API Design, and Database Optimization**
 
 ---
-
-
-
 
 ### 🧰 Tech Stack & Tools
 
@@ -56,7 +51,6 @@
 
 ---
 
-
 ### 📊 GitHub Analytics
 
 <!-- GitHub Streak -->
@@ -64,27 +58,21 @@
   <img src="https://streak-stats.demolab.com?user=mrhx01&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
-
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrhx01&bg_color=141321&color=A9FEF7&line=FE428E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%" />
 </div>
-
-
 
 <!-- GitHub Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mrhx01&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="100%" />
 </div>
 
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
 [![Mrhx01's github stats](https://github-readme-mwendwa.vercel.app/api?username=mrhx01&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mrhx01&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-
 
 <!-- Snake animation -->
 <div align="center">
@@ -94,9 +82,7 @@
   </picture>
 </div>
 
-
 ---
-
 
 <div align="center">
   
