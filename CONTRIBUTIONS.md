@@ -11,6 +11,13 @@
 | [#15795](https://github.com/python/typeshed/pull/15795) | <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="30"> [Python](https://github.com/python/) | [`typeshed`](https://github.com/python/typeshed/) | 🔄 In review | 2026-05-15 | Fix default value for parameter in `deprecated.params` |
 ---
 
+
+
+
+
+
+
+
 ## Overall Stats 📊
 
 | Metric | Value |
@@ -20,5 +27,8 @@
 | **🔄 In Review** | 4 |
 | **Primary Area** | Type Hints / Python Stubs |
 | **Organizations** | Python, NASA |
+
+
+
 
 ---
