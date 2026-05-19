@@ -23,8 +23,8 @@
 | Metric | Value |
 |--------|-------|
 | **Total Pull Requests** | 7 |
-| **✅ Merged** | 3 |
-| **🔄 In Review** | 4 |
+| **✅ Merged** | 2 |
+| **🔄 In Review** | 5 |
 | **Primary Area** | Type Hints / Python Stubs |
 | **Organizations** | Python, NASA |
 
