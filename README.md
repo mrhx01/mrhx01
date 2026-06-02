@@ -24,6 +24,20 @@
 - 🤝 I’m looking to collaborate on **Open Source Python/Django Projects**
 - 💬 Ask me about **Python, Django, API Design, and Database Optimization**
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ### 🧰 Tech Stack & Tools
@@ -83,11 +97,8 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mrhx01/mrhx01/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
-
 ---
-
 <div align="center">
-  
   [![Mockingbird](https://img.shields.io/badge/🎧_Now_Playing-Mockingbird_by_Eminem-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=S9bCLPwzSC0)
 
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote" height="270" />
