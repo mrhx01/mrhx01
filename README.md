@@ -25,19 +25,6 @@
 - 💬 Ask me about **Python, Django, API Design, and Database Optimization**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ### 🧰 Tech Stack & Tools
