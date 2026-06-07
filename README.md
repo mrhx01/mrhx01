@@ -1,17 +1,15 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hello,+I'm+Mrhx01;🐍+Backend+Developer;💻+Django+%7C+Python+%7C+C%23;🤖+AI+%26+Automation+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=B550FF&center=true&vCenter=true&width=600&lines=👋+Hello,+I'm+Mrhx01;🐍+Backend+Developer;💻+Django+%7C+Python+%7C+C%23;🤖+AI+%26+Automation+Enthusiast)](https://git.io/typing-svg)
 
 *Architecting robust, scalable backends and intelligent automation systems.*
-
-
 
 <!-- Add your actual links here -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrhx01)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrhx01@proton.me)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mrhx01&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=mrhx01&label=Profile%20views&color=8a2be2&style=flat)
 
 </div>
 
@@ -23,7 +21,6 @@
 - 🌱 I’m currently exploring **Scalable Microservices & Cloud Architecture**
 - 🤝 I’m looking to collaborate on **Open Source Python/Django Projects**
 - 💬 Ask me about **Python, Django, API Design, and Database Optimization**
-
 
 ---
 
@@ -52,30 +49,44 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+
 ---
 
 ### 📊 GitHub Analytics
 
 <!-- GitHub Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mrhx01&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://streak-stats.demolab.com?user=mrhx01&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrhx01&bg_color=141321&color=A9FEF7&line=FE428E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrhx01&bg_color=1E112A&color=D484FF&line=A020F0&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%" />
 </div>
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrhx01&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mrhx01&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="100%" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+<p align="center">
+  
+[![mrhx01's current streak](https://streak-stats.demolab.com/?user=mrhx01&count_private=true&theme=shades-of-purple)](#)
 
-[![Mrhx01's github stats](https://github-readme-mwendwa.vercel.app/api?username=mrhx01&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mrhx01&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-mwendwa.vercel.app/api?username=mrhx01&show_icons=true&count_private=true&line_height=20&theme=shades-of-purple" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mrhx01&layout=compact&count_private=true&theme=shades-of-purple" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+</p>
 
 <!-- Snake animation -->
 <div align="center">
@@ -84,13 +95,17 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mrhx01/mrhx01/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
----
-<div align="center">
-  [![Mockingbird](https://img.shields.io/badge/🎧_Now_Playing-Mockingbird_by_Eminem-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=S9bCLPwzSC0)
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote" height="270" />
+---
+
+<div align="center">
+  [![Mockingbird](https://img.shields.io/badge/Now%20Playing-Mockingbird%20by%20Eminem-8a2be2?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=S9bCLPwzSC0)
+
+  <br><br>
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=shades-of-purple" alt="Dev Quote" height="270" />
 </div>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=100&section=footer"/>
 </p>
