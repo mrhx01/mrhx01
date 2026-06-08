@@ -39,27 +39,17 @@ status      : Always building something cool 🛠️
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="50" height="50" /> Tech Stack
 
+
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Screwdriver.png" alt="Screwdriver" width="30" height="30" /> **Languages:**  
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,cs,c&perline=13)](#)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Frontend:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,htmx,&perline=13)](#)
-
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" /> **Backend:**  
-[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,dotnet&perline=13)](#)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **DevOps:**  
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,github,git,linux,nginx,docker,&perline=13)](#)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Tools & Platforms:**  
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow,vscode,visualstudio,vim,sublime,pycharm,postman,npm,codepen,&perline=13)](#)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Other:**  
-[![My Skills](https://skillicons.dev/icons?i=ai,pr,ps,wordpress,windows,&perline=13)](#)
-
+| | Category | Icons |
+|---|---|---|
+| 🔤 | **Languages** | [![](https://skillicons.dev/icons?i=python,js,ts,cs,c)](#) |
+| 🎨 | **Frontend** | [![](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,htmx)](#) |
+| ⚙️ | **Backend** | [![](https://skillicons.dev/icons?i=django,flask,fastapi,dotnet)](#) |
+| 🚀 | **DevOps** | [![](https://skillicons.dev/icons?i=cloudflare,github,git,linux,nginx,docker)](#) |
+| 🧰 | **Tools** | [![](https://skillicons.dev/icons?i=vscode,visualstudio,vim,sublime,pycharm,postman,npm,codepen)](#) |
+| 🎯 | **Other** | [![](https://skillicons.dev/icons?i=ai,pr,ps,wordpress,windows)](#) |
 
 </div>
 
