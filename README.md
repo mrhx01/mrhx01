@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=mrhx01&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=〔%20Developer%20·%20Builder%20·%20Explorer%20〕&descAlignY=60&descSize=18&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=MRHX01&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=〔%20Developer%20·%20Builder%20·%20Explorer%20〕&descAlignY=60&descSize=18&animation=twinkling" />
 
 > *In memory of my dear friends, **Stack Overflow** & **GeeksforGeeks** & **W3Schools** — I'll miss them.*
 
