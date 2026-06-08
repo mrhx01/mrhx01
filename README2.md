@@ -41,7 +41,7 @@ status      : Always building something cool 🛠️
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages:**  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Screwdriver.png" alt="Screwdriver" width="30" height="30" /> **Languages:**  
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,cs,c&perline=13)](#)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Frontend:**  
