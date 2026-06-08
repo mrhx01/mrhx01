@@ -41,7 +41,7 @@ status      : Always building something cool 🛠️
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,cs,c&perline=13)](#)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Frontend:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,nextjs,tailwind,htmxperline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,htmx,&perline=13)](#)
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **backend:**  
@@ -49,7 +49,10 @@ status      : Always building something cool 🛠️
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Tools & Platforms:**  
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow,github,git,linux,vscode,visualstudio,vim,sublime,pycharm,postman,npm,nginx,codepen,&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow,cloudflare,github,git,linux,vscode,visualstudio,vim,sublime,pycharm,postman,npm,nginx,docker,codepen,&perline=13)](#)
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **other: **  
+[![My Skills](https://skillicons.dev/icons?i=ai,pr,ps,wordpress,,&perline=13)](#)
 
 
 </div>
