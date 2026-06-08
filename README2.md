@@ -96,7 +96,7 @@ status      : Always building something cool 🛠️
 
 ---
 
-## 🌐 Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="50" height="50" /> Connect With Me
 
 <div align="center">
 
