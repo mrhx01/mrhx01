@@ -48,7 +48,7 @@ status      : Always building something cool 🛠️
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,htmx,&perline=13)](#)
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> **Backend:**  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" /> **Backend:**  
 [![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,dotnet&perline=13)](#)
 
 
