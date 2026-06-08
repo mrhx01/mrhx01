@@ -100,7 +100,7 @@ status      : Always building something cool 🛠️
 
 ---
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight,border=true" alt="Dev Quote" height="270" />
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&border=true" alt="Dev Quote" height="270" />
 </div>
 
 ---
