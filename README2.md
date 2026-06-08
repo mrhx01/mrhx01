@@ -51,9 +51,11 @@ status      : Always building something cool 🛠️
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" /> **Backend:**  
 [![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,dotnet&perline=13)](#)
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **DevOps:**  
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,github,git,linux,nginx,docker,&perline=13)](#)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Tools & Platforms:**  
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow,cloudflare,github,git,linux,vscode,visualstudio,vim,sublime,pycharm,postman,npm,nginx,docker,codepen,&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow,vscode,visualstudio,vim,sublime,pycharm,postman,npm,codepen,&perline=13)](#)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Other:**  
 [![My Skills](https://skillicons.dev/icons?i=ai,pr,ps,wordpress,windows,&perline=13)](#)
