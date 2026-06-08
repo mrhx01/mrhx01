@@ -67,9 +67,6 @@ status      : Always building something cool 🛠️
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrhx01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=7c3aed"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhx01&layout=compact&langs_count=8&theme=tokyonight&border_color=00d4ff&title_color=00d4ff"/>
-
 </div>
 
 <div align="center">
@@ -78,19 +75,21 @@ status      : Always building something cool 🛠️
 
 </div>
 
+<img src="https://github-readme-mwendwa.vercel.app/api?username=mrhx01&show_icons=true&count_private=true&line_height=20&theme=tokyonight" alt="GitHub Stats" />  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mrhx01&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" />
+
 ---
 
-## 🏆 GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" alt="Crown" width="50" height="50" /> GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrhx01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrhx01)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="50" height="50" /> Contribution Graph
 
 <div align="center">
 
@@ -108,6 +107,7 @@ status      : Always building something cool 🛠️
 </div>
 
 ---
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="50" height="50" /> Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&border=true" alt="Dev Quote" height="270" />
