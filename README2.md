@@ -97,7 +97,10 @@ status      : Always building something cool 🛠️
 </div>
 
 ---
-
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=shades-of-purple" alt="Dev Quote" height="270" />
+</div>
+---
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="50" height="50" /> Connect With Me
 
 <div align="center">
