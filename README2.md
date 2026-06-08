@@ -99,6 +99,16 @@ status      : Always building something cool 🛠️
 </div>
 
 ---
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="50" height="50" /> Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrhx01/mrhx01/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mrhx01/mrhx01/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&border=true" alt="Dev Quote" height="270" />
 </div>
