@@ -42,7 +42,7 @@ status      : Always building something cool 🛠️
 
 <div align="center">
 
-| | Category | Icons |
+| # | Category | Icons |
 |---|---|---|
 | 🔤 | **Languages** | [![](https://skillicons.dev/icons?i=python,js,ts,cs,c)](#) |
 | 🎨 | **Frontend** | [![](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,htmx)](#) |
