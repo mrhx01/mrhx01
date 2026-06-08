@@ -3,7 +3,9 @@
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=mrhx01&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=〔%20Developer%20·%20Builder%20·%20Explorer%20〕&descAlignY=60&descSize=18&animation=twinkling" />
 
-*In memory of my dear friends, Stack Overflow and GeeksforGeeks and W3Schools — I'll miss them.*
+*In memory of my dear friends, **Stack Overflow** & **GeeksforGeeks** & **W3Schools** — I'll miss them.*
+
+---
 
 <!-- TYPING ANIMATION -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="50" height="50" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="50" height="50" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="50" height="50" /> 
@@ -21,7 +23,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="50" height="50" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Construction%20Worker%20Medium-Light%20Skin%20Tone.png" alt="Construction Worker Medium-Light Skin Tone" width="50" height="50" /> About Me
 
 ```yaml
 name        : mrhx01
@@ -100,7 +102,9 @@ status      : Always building something cool 🛠️
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=shades-of-purple" alt="Dev Quote" height="270" />
 </div>
+
 ---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="50" height="50" /> Connect With Me
 
 <div align="center">
