@@ -63,7 +63,7 @@ status      : Always building something cool 🛠️
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="50" height="50" /> GitHub Stats
 
 <div align="center">
 
