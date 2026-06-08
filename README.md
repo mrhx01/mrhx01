@@ -47,9 +47,9 @@ status      : Always building something cool 🛠️
 | 🔤 | **Languages** | [![](https://skillicons.dev/icons?i=python,js,ts,cs,c)](#) |
 | 🎨 | **Frontend** | [![](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,htmx)](#) |
 | ⚙️ | **Backend** | [![](https://skillicons.dev/icons?i=django,flask,fastapi,dotnet)](#) |
-| 🚀 | **DevOps** | [![](https://skillicons.dev/icons?i=cloudflare,github,git,linux,nginx,docker)](#) |
-| 🧰 | **Tools** | [![](https://skillicons.dev/icons?i=vscode,visualstudio,vim,sublime,pycharm,postman,npm,codepen)](#) |
-| 🎯 | **Other** | [![](https://skillicons.dev/icons?i=ai,pr,ps,wordpress,windows)](#) |
+| 🚀 | **DevOps** | [![](https://skillicons.dev/icons?i=github,git,linux,nginx,docker,cloudflare)](#) |
+| 🧰 | **Tools** | [![](https://skillicons.dev/icons?i=postman,npm,vscode,visualstudio,vim,sublime,pycharm,codepen)](#) |
+| 🎯 | **Other** | [![](https://skillicons.dev/icons?i=pr,ps,ai,wordpress,windows)](#) |
 
 </div>
 
