@@ -38,21 +38,19 @@ status      : Always building something cool 🛠️
 <div align="center">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages:**  
-[![My Skills](https://skillicons.dev/icons?i=python,js,cs,c&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,cs,c&perline=13)](#)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Frontend:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,nextjs,tailwind&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,nextjs,tailwind,htmxperline=13)](#)
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **backend:**  
 [![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,dotnet&perline=13)](#)
 
-### 🧰 Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Tools & Platforms:**  
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow,github,git,linux,vscode,visualstudio,vim,sublime,pycharm,postman,npm,nginx,codepen,&perline=13)](#)
+
 
 </div>
 
