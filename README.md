@@ -1,3 +1,4 @@
+<div align="center" width="100%">
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
@@ -27,6 +28,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Construction%20Worker%20Medium-Light%20Skin%20Tone.png" alt="Construction Worker Medium-Light Skin Tone" width="50" height="50" /> About Me
 
+<div align="left">
+
 ```yaml
 name        : mrhx01
 location    : 🌍 Earth
@@ -34,6 +37,7 @@ role        : [ Developer, Problem Solver, Tech Enthusiast ]
 interests   : [ Open Source, Web Dev, Security, AI ]
 status      : Always building something cool 🛠️
 ```
+</div>
 
 > *"Code is poetry — write it beautifully."*
 
@@ -69,19 +73,12 @@ status      : Always building something cool 🛠️
 
 <img src="https://github-readme-mwendwa.vercel.app/api?username=mrhx01&show_icons=true&count_private=true&line_height=20&theme=tokyonight" alt="GitHub Stats" />
 
-
 <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mrhx01&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrhx01&theme=radical"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="50" height="50" /> Developer Radar
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrhx01&theme=radical"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrhx01&theme=radical"/>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -145,5 +142,7 @@ status      : Always building something cool 🛠️
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer"/>
 
 **⭐ If you like what you see, consider starring some repos!**
+
+</div>
 
 </div>
