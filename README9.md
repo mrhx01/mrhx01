@@ -107,10 +107,25 @@
 
 ---
 
+
 <div align="center">
   [![Mockingbird](https://img.shields.io/badge/Now%20Playing-Mockingbird%20by%20Eminem-8a2be2?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=S9bCLPwzSC0)
 
   <br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=shades-of-purple" alt="Dev Quote" height="270" />
 </div>
