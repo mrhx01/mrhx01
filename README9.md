@@ -1,5 +1,48 @@
 <div align="center">
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=B550FF&center=true&vCenter=true&width=600&lines=👋+Hello,+I'm+Mrhx01;🐍+Backend+Developer;💻+Django+%7C+Python+%7C+C%23;🤖+AI+%26+Automation+Enthusiast)](https://git.io/typing-svg)
 
 *Architecting robust, scalable backends and intelligent automation systems.*
