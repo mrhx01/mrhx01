@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=MRHX01&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=〔%20Developer%20·%20Builder%20·%20Explorer%20〕&descAlignY=60&descSize=18&animation=twinkling" />
+![header](https://itextglow.vercel.app/api/banner?text=Mrhx01&sub=%E3%80%94Developer-Builder-Explorer%5D&font=Bungee&bg1=001a2e&bg2=002b4a&t1=a8edea&t2=fed6e3&sc=e0f7fa&size=70&subsize=20&width=960&align=center&transparent=0&pattern=dots&patcolor=ffffff&patop=10&animate=glow&shadowblur=8&shadowx=0&shadowy=3)
 
 > *In memory of my dear friends, **Stack Overflow** & **GeeksforGeeks** & **W3Schools** — I'll miss them.*
 
