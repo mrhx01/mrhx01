@@ -2,7 +2,8 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-![header](https://itextglow.vercel.app/api/banner?text=Mrhx01&sub=%E3%80%94Developer-Builder-Explorer%5D&font=Bungee&bg1=001a2e&bg2=002b4a&t1=a8edea&t2=fed6e3&sc=e0f7fa&size=70&subsize=20&width=960&align=center&transparent=0&pattern=dots&patcolor=ffffff&patop=10&animate=glow&shadowblur=8&shadowx=0&shadowy=3)
+![header](https://itextglow.vercel.app/api/banner?text=MRHX01&sub=%5BDeveloper-Builder-Explorer%5D&font=Press+Start+2P&bg1=0a0015&bg2=1e0030&t1=e040fb&t2=7c4dff&sc=a877b1&size=62&subsize=16&width=960&align=center&transparent=0&pattern=dots&patcolor=ffffff&patop=10&animate=glow&shadow=000000&shadowblur=3&shadowx=0&shadowy=3)
+
 
 > *In memory of my dear friends, **Stack Overflow** & **GeeksforGeeks** & **W3Schools** — I'll miss them.*
 
