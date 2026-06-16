@@ -83,11 +83,14 @@ status      : Always building something cool 🛠️
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" alt="Crown" width="50" height="50" /> GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" alt="Crown" width="50" height="50" /> 3D Contribution Map
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrhx01)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg" />
+  </picture>
 
 </div>
 
