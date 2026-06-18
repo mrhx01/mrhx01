@@ -1,4 +1,4 @@
-name: generate arcade contribution graphs
+name: generate packman contribution graphs
 
 on:
     schedule: # Run automatically every 24 hours
