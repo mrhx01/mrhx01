@@ -5,7 +5,7 @@
 ![header](https://itextglow.vercel.app/api/banner?text=MRHX01&sub=%5BDeveloper-Builder-Explorer%5D&font=Press+Start+2P&bg1=0a0015&bg2=1e0030&t1=e040fb&t2=7c4dff&sc=a877b1&size=62&subsize=16&width=960&align=center&transparent=0&pattern=dots&patcolor=ffffff&patop=10&animate=glow&shadow=000000&shadowblur=3&shadowx=0&shadowy=3)
 
 
-> *In memory of my dear friends, **Stack Overflow** & **GeeksforGeeks** & **W3Schools** — I'll miss them.*
+> *In memory of my dear friends, **Stack Overflow** & **GeeksforGeeks** & **W3Schools** — I'll miss them.*<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Growing Heart" width="25" height="25" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
