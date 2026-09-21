@@ -52,7 +52,7 @@ status      : Always building something cool 🛠️
 
 | # | Category | Icons |
 |---|---|---|
-| 🔤 | **Languages** | [![](https://skillicons.dev/icons?i=python,cs,js,ts,c)](#) |
+| 🔤 | **Languages** | [![](https://skillicons.dev/icons?i=cs,python,js,ts,c)](#) |
 | 🎨 | **Frontend** | [![](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,htmx)](#) |
 | ⚙️ | **Backend** | [![](https://skillicons.dev/icons?i=dotnet,django,flask,fastapi)](#) |
 | 🚀 | **DevOps** | [![](https://skillicons.dev/icons?i=github,git,linux,nginx,docker,cloudflare)](#) |
